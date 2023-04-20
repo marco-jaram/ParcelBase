@@ -1,0 +1,1 @@
+console.log("hola sot app de la carpeta src/js/")
